@@ -1,0 +1,9 @@
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper_Demo.exe.config
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper_Demo.exe
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper_Demo.pdb
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper.dll
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper.pdb
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\bin\Debug\Dapper.xml
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\obj\Debug\Dapper_Demo.csprojResolveAssemblyReference.cache
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\obj\Debug\Dapper_Demo.exe
+C:\Codigo\Personal\Angular2\Dapper_Demo\Dapper_Demo\obj\Debug\Dapper_Demo.pdb
